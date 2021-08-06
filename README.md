@@ -12,3 +12,7 @@ The workspace contains two folders by default, where:
 ## Dependency Management
 
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+## Authors
+- [Albero Italo Souza dos Santos](https://github.com/PlayerGhost)
+- [Victor Torres de Melo Oliveira](https://github.com/VictorTmelo)
+- [Renato Vidal Moura](https://github.com/Renato0402)
